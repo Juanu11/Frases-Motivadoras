@@ -57,3 +57,8 @@ body {
     background-color: #22A7F0; /* Fondo azul brillante */
     color: white; /* Texto blanco */
 }
+
+
+img {
+    margin-bottom: 20px; /* Espacio entre la imagen y el contenedor */
+  }
